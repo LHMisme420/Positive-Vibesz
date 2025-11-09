@@ -73,3 +73,28 @@ def main():
 
 if __name__ == "__main__":
     main()
+POSITIVE_CONTENT = [
+    # Original entries (Keeping for context)
+    "You are capable of amazing things. Today, prove it to yourself.",
+    "Small steps lead to big leaps. What's your next one?",
+    "Kindness is free—sprinkle it everywhere.",
+    "Fun fact: Laughter boosts your immune system. Giggle on!",
+    "Breathe in peace, exhale doubt. You've got this.",
+    "Every sunrise is nature's way of saying 'Let's try again.'",
+    "You're not a drop in the ocean; you're the entire ocean in a drop.",
+    "Celebrate the wins, no matter how tiny. High-five incoming!",
+    "Curiosity is your superpower. What will you discover today?",
+    "Rest is progress. Pause and recharge like a boss.",
+    
+    # NEW Entries to add 🚀
+    "Don't wait for permission to shine. Your light is ready now!",  # Motivation
+    "Gratitude turns what we have into enough. Name three things you're thankful for.",  # Gratitude
+    "Fun fact: Honey never spoils. Your potential is just as timeless.",  # Fun Fact/Analogy
+    "The world needs your unique blend of magic. Don't dim it down.",  # Self-Acceptance
+    "A mistake is just proof that you are trying. Keep learning, keep going.",  # Resilience
+    "Treat yourself like someone you love. You deserve the best care.",  # Self-Care
+    "Today's good mood is sponsored by coffee and your amazing attitude.",  # Lighthearted
+    "Imagine the best-case scenario. Now, go make it happen.",  # Visualization
+    "Your presence is a gift. The people around you are lucky to have you.",  # Affirmation
+    "Fun fact: A single cloud can weigh over a million pounds. You can carry your day!",  # Fun Fact/Strength
+]
